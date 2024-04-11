@@ -14,7 +14,7 @@ Age Classification Logic: The app's logic is robust and efficient, ensuring accu
 
 Error Handling: Proactive error handling mechanisms have been implemented to guide users in providing valid inputs. The app provides constructive feedback for invalid inputs, preventing crashes and ensuring a smooth user experience giving full control to the user.
 
-Utilization of GitHub and GitHub Actions:
+Utilization of GitHub :
 
 GitHub serves as my primary version control system, offering a collaborative platform for team members to work together seamlessly. The following aspects highlight the GitHub utilization:
 
@@ -22,17 +22,8 @@ Version Control: GitHub's version control capabilities have been instrumental in
 
 GitHub Actions: Automation plays a crucial role in the development process, and GitHub Actions have been utilized for automated testing and building processes. Continuous integration and delivery (CI/CD) pipelines have been set up to automate testing, code analysis, and deployment, ensuring code reliability and efficiency.
 
-References:
 
-The following references have been instrumental in shaping the app's design and development:
-
-Android Developer Documentation: The official Android Developer Documentation provided insights into Android app development best practices, UI/UX design principles, and Kotlin programming language features.
-
-Kotlin Programming Language Documentation: As Kotlin is the primary programming language used for Android app development, the Kotlin Programming Language Documentation served as a valuable resource for language syntax, features, and advanced concepts.
-
-GitHub Guides and Documentation: GitHub's comprehensive guides and documentation helped us leverage GitHub's version control capabilities effectively, understand branching strategies, and implement automation using GitHub Actions.
-
-Adding Images and Customizing the README File:
+Adding Images :
 
 Visual aids play a crucial role in enhancing the understanding of the app's design and functionality. The report includes screenshots of the app's UI, GitHub workflows, and automation processes to provide a visual representation of our development journey. The README file serves as a central hub for information about the app. It provides a comprehensive overview of the app's features, installation instructions, usage guidelines, and contribution guidelines for developers. The README file is structured, informative, and tailored to make it user-friendly and accessible.
 
