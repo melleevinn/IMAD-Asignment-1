@@ -1,9 +1,12 @@
 ![image](https://github.com/melleevinn/IMAD-Assignment-1/assets/166136777/d4f57c8b-a085-4f80-8162-a7b3d2516b6e)
+
 YouTube link ….>>>https://youtu.be/ENMrEYVXbpM 
+
 GitHub Link…..>>>https://github.com/melleevinn/IMAD-Asignment-1
+
 History App ” Read Me”  Documentation 
 
- Exploring African History Through Technology: The History App
+Exploring African History Through Technology: The History App
 In today's digital age, technology plays a very pivotal role in transforming traditional educational methods into inter active and engaging experiences. One such innovative application is the History App, a mobile platform designed to revolutionize the learning experience of African history for everyday students and they get fan facts that encourages them to research more. 
 
 Asante, Molefi Kete. “African history: a very short introduction .” Oxford university Press, 2007
